@@ -1,7 +1,6 @@
 # next-delete
 > Multiple delete for object.
 
-
 ## install:
 ```bash
 npm install -S afeiship/next-delete --registry=https://registry.npm.taobao.org
