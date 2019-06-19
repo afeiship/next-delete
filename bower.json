@@ -1,6 +1,7 @@
 {
   "name": "next-delete",
-  "description": "Multiple delete for object.",
+  "version": "0.0.1",
+  "description": "Multiple delete for object",
   "main": "dist/next-delete.js",
   "authors": [
     "afei"
@@ -19,6 +20,7 @@
     "bower_components",
     "test",
     "tests",
+    "build",
     "src",
     "gulp",
     "gulpfile.js"
