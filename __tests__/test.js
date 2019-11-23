@@ -1,4 +1,4 @@
-var nx = require('next-js-core2');
+var nx = require('@feizheng/next-js-core2');
 require('../src/next-delete');
 
 describe('Basic test', () => {
