@@ -1,6 +1,6 @@
 {
   "name": "@feizheng/next-delete",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Multiple delete for object",
   "homepage": "https://github.com/afeiship/next-delete",
   "author": {
@@ -15,7 +15,7 @@
   "main": "dist/next-delete.js",
   "license": "MIT",
   "devDependencies": {
-    "@feizheng/next-nice-comments": "^1.0.0",
+    "@feizheng/next-nice-comments": "^1.0.1",
     "del": "^5.1.0",
     "gulp": "^4.0.2",
     "gulp-bump": "^3.1.3",
@@ -31,7 +31,7 @@
     "yargs": "^15.1.0"
   },
   "dependencies": {
-    "@feizheng/next-js-core2": "^2.4.0"
+    "@feizheng/next-js-core2": "^2.4.1"
   },
   "publishConfig": {
     "registry": "https://registry.npmjs.org/"
