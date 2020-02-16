@@ -1,6 +1,6 @@
 {
   "name": "@feizheng/next-delete",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Multiple delete for object",
   "homepage": "https://github.com/afeiship/next-delete",
   "author": {
@@ -16,22 +16,22 @@
   "license": "MIT",
   "devDependencies": {
     "@feizheng/next-nice-comments": "^1.0.0",
-    "del": "^2.2.1",
+    "del": "^5.1.0",
     "gulp": "^4.0.2",
     "gulp-bump": "^3.1.3",
-    "gulp-concat": "^2.6.0",
-    "gulp-header": "^2.0.7",
-    "gulp-load-plugins": "^1.2.0",
-    "gulp-rename": "^1.2.2",
-    "gulp-size": "^2.1.0",
-    "gulp-uglify": "^2.1.2",
-    "jest": "^23.6.0",
-    "prettier": "^1.14.3",
+    "gulp-concat": "^2.6.1",
+    "gulp-header": "^2.0.9",
+    "gulp-load-plugins": "^2.0.2",
+    "gulp-rename": "^2.0.0",
+    "gulp-size": "^3.0.0",
+    "gulp-uglify": "^3.0.2",
+    "jest": "^25.1.0",
+    "prettier": "^1.19.1",
     "uglify-save-license": "^0.4.1",
-    "yargs": "^4.7.1"
+    "yargs": "^15.1.0"
   },
   "dependencies": {
-    "@feizheng/next-js-core2": "^2.0.2"
+    "@feizheng/next-js-core2": "^2.4.0"
   },
   "publishConfig": {
     "registry": "https://registry.npmjs.org/"
