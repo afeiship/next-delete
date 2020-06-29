@@ -7,10 +7,7 @@
   });
 
   //clean
-  gulp.task(
-    'clean',
-    gulp.parallel(function() {
-      return $.del('dist');
-    })
-  );
+  gulp.task('clean', function() {
+    return $.del('dist');
+  });
 })();
