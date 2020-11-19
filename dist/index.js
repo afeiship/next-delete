@@ -3,7 +3,7 @@
  * description: Multiple delete for object.
  * homepage: https://github.com/afeiship/next-delete
  * version: 1.0.0
- * date: 2020-11-19 09:17:30
+ * date: 2020-11-19 09:18:14
  * license: MIT
  */
 
