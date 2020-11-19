@@ -8,12 +8,12 @@
 
 ## installation
 ```bash
-npm install -S @feizheng/next-delete
+npm install -S @jswork/next-delete
 ```
 
 ## usage
 ```js
-import '@feizheng/next-delete';
+import '@jswork/next-delete';
 
 let obj = {
   name:'afei',
@@ -36,14 +36,14 @@ nx.delete(obj2);
 ## license
 Code released under [the MIT license](https://github.com/afeiship/next-delete/blob/master/LICENSE.txt).
 
-[version-image]: https://img.shields.io/npm/v/@feizheng/next-delete
-[version-url]: https://npmjs.org/package/@feizheng/next-delete
+[version-image]: https://img.shields.io/npm/v/@jswork/next-delete
+[version-url]: https://npmjs.org/package/@jswork/next-delete
 
-[license-image]: https://img.shields.io/npm/l/@feizheng/next-delete
+[license-image]: https://img.shields.io/npm/l/@jswork/next-delete
 [license-url]: https://github.com/afeiship/next-delete/blob/master/LICENSE.txt
 
-[size-image]: https://img.shields.io/bundlephobia/minzip/@feizheng/next-delete
+[size-image]: https://img.shields.io/bundlephobia/minzip/@jswork/next-delete
 [size-url]: https://github.com/afeiship/next-delete/blob/master/dist/next-delete.min.js
 
-[download-image]: https://img.shields.io/npm/dm/@feizheng/next-delete
-[download-url]: https://www.npmjs.com/package/@feizheng/next-delete
+[download-image]: https://img.shields.io/npm/dm/@jswork/next-delete
+[download-url]: https://www.npmjs.com/package/@jswork/next-delete
