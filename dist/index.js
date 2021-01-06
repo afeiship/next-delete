@@ -2,13 +2,13 @@
  * name: @jswork/next-delete
  * description: Multiple delete for object.
  * homepage: https://github.com/afeiship/next-delete
- * version: 1.0.0
- * date: 2020-11-19 09:18:14
+ * version: 1.0.1
+ * date: 2021-01-06 21:58:39
  * license: MIT
  */
 
 (function () {
-  var global = global || this || window || Function('return this')();
+  var global = global || window || Function('return this')();
   var nx = global.nx || require('@jswork/next');
 
   nx.delete = function (inObject, inArray) {
