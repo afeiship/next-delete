@@ -2,8 +2,8 @@
  * name: @jswork/next-delete
  * description: Multiple delete for object.
  * homepage: https://github.com/afeiship/next-delete
- * version: 1.0.1
- * date: 2021-01-06 21:58:39
+ * version: 1.0.2
+ * date: 2021-01-09 16:07:31
  * license: MIT
  */
 
